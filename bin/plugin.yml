@@ -1,0 +1,8 @@
+main: com.panjaco.teams.Teams
+version: 1.0.0
+author: iPanja
+name: Teams
+commands:
+  teams:
+    description: The base command for all other commands
+    usage: /teams
